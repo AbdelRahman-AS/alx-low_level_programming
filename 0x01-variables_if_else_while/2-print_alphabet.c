@@ -1,7 +1,3 @@
-#!/bin/bash
-git add .
-git commit -m 'io'
-git push origin master
 #include <stdio.h>
 
 /**
