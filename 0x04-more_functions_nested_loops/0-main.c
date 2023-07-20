@@ -3,7 +3,7 @@
 
 /**
  * main - check the code.
- *
+ * @c: char to be checked
  * Return: Always 0.
  */
 int main(void)
