@@ -12,7 +12,7 @@ int x;
 
 for (x = 1; x < 101; x++)
 {
-if(x != 1)
+if (x != 1)
 {
 putchar(' ');
 }
