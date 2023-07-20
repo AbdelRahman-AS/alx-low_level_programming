@@ -2,6 +2,6 @@
 #define MAIN_H
 
 
-const char* _isupper(c char);
+int _isupper(char c);
 
 #endif /* MAIN_H */
