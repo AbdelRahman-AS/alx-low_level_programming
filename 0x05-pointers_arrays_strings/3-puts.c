@@ -2,15 +2,12 @@
 #include <stdio.h>
 
 /**
- *swap_int - swap int
- *@a: dsfsf
- *@b: dasd
+ *_puts - put
+ *@str: dsfsf
+ *
  * Return: Always 0.
  */
-void swap_int(int *a, int *b)
+void _puts(char *str)
 {
-int temp;
-temp = *a;
-*a = *b;
-*b = temp;
+
 }
